@@ -1,1 +1,1 @@
-this is java 2 
+this is java2
